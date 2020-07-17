@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![alt text](https://github.com/fn-code/fn-code/blob/master/bitmap.png "Header")
+
+
 <!--
 **fn-code/fn-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
