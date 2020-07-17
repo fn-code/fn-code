@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, i'm Ludin Nento 👋
 
 ![alt text](https://github.com/fn-code/fn-code/blob/master/bitmap.png "Header")
 
