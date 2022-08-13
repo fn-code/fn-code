@@ -1,6 +1,4 @@
-### Hi there, i'm Ludin Nento 👋
-
-![alt text](https://github.com/fn-code/fn-code/blob/master/bitmap.png "Header")
+### Hi there, i'm Ludin 👋
 
 <div id="badges">
   <a href="https://id.linkedin.com/in/ludin-nento-16469494">
