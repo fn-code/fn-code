@@ -1,8 +1,5 @@
 ### Hi there, i'm Ludin 👋
 
-
-[![@fncode's Holopin board](https://holopin.me/fncode)](https://holopin.io/@fncode)
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/ludin-nento">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
